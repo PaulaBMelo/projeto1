@@ -16,11 +16,12 @@ API para banco digital, que permite:
 
 -   ## Para executar o projeto
 -   Com o Git e o Node.js instalado na sua maquina e a URL do projeto em mãos, você deve cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o cmd ou powershell e digite os comandos abaixo:
-  git clone https://github.com/PaulaBMelo/projeto1.git
-  cd projeto1
-  npm install
-  inicie o servidor: npm run dev
-  teste as Rotas: Uma ferramenta para testar APIs é o insomnia. A API estará disponível em: http://localhost:3000
+-   
+ 1.  git clone https://github.com/PaulaBMelo/projeto1.git
+ 2.  cd projeto1
+ 3.  npm install
+ 4.  inicie o servidor: npm run dev
+ 5.  teste as Rotas: Uma ferramenta para testar APIs é o insomnia. A API estará disponível em: http://localhost:3000
 
 ## Tecnologias utilizadas
 Node.js
